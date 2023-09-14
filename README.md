@@ -2,7 +2,7 @@
 
 <a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/bloglovin-#525252?style=flat-square&logo=bloglovin&logoColor=#2DB400"/></a>
 
-<a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/블로그-grey?&logo=bloglovin&logoColor=#2DB400"/></a>
+<a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/블로그-grey?&style=flat-square&logo=bloglovin&logoColor=green"/></a>
 
 <!--
 **emerald6227/emerald6227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
