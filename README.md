@@ -4,8 +4,9 @@
   <a target="_blank" href="https://blog.naver.com/emerald6227"><img src="https://img.shields.io/badge/Blog-2DB400?&style=flat-square&logo=bloglovin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SSAFY-1428A0?&style=flat-square&logo=Samsung&logoColor=white"/></a>
 </div>
+<br/>
 
-### Back-End
+### Back-End 🚀
 
 <div>
   <a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/></a>
@@ -16,12 +17,15 @@
   <a href="#"><img src="https://img.shields.io/badge/Express-5B656F?&style=flat-square&logo=Express&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?&style=flat-square&logo=npm&logoColor=white"/></a>
   <br/>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=Firebase&logoColor=white"/></a>
+  <br/>
   <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?&style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MS SQL-CC2927?&style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Mongo DB-47A248?&style=flat-square&logo=Mongoose&logoColor=white"/></a>
 </div>
+<br/>
 
-### Front-End
+### Front-End 👓
 
 <div>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -33,7 +37,16 @@
   <br/>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vuetify-1867C0?&style=flat-square&logo=Vuetify&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?&style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
+</div>
+<br/>
+
+### Tools 🛠
+
+<div>
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJ IDEA-FF315F?&style=flat-square&logo=JetBrains&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 </div>
 
 <!--
