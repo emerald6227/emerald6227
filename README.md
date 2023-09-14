@@ -2,6 +2,12 @@
 
 <a target="_blank" href="https://blog.naver.com/emerald6227"><img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=bloglovin&logoColor=2DB400"/></a>
 
+<img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=JavaScript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=TypeScript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=Node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=React&logoColor=61DAFB"/>
+
 <!--
 **emerald6227/emerald6227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
