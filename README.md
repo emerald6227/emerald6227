@@ -1,6 +1,6 @@
 ## Welcome! I'm B2C Web Developer Raven!
 
-<a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=bloglovin&logoColor=2DB400"/></a>
+<a target="_blank" href="https://blog.naver.com/emerald6227"><img src="https://img.shields.io/badge/블로그-525252?&style=flat&logo=bloglovin&logoColor=2DB400"/></a>
 
 <!--
 **emerald6227/emerald6227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
