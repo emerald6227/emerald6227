@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/bloglovin-#000000?style=flat-square&logo=appveyor&logoColor=#2DB400"/></a>
+<a href="https://blog.naver.com/emerald6227" target="_blank"><img src="https://img.shields.io/badge/bloglovin-#525252?style=flat-square&logo=bloglovin&logoColor=#2DB400"/></a>
 
 <!--
 **emerald6227/emerald6227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
